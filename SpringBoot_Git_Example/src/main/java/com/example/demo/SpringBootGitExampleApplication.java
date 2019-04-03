@@ -10,6 +10,7 @@ public class SpringBootGitExampleApplication {
 		SpringApplication.run(SpringBootGitExampleApplication.class, args);
 		
 		System.out.println("Hey Are you Remember me?");
+		System.out.println("Againg repeating the things because of mistake");
 	}
 
 }
